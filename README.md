@@ -38,6 +38,11 @@ Through this project, we learned many lessons. In particular, we learned about d
 [Code Zip File](https://github.com/mconnelly17/Camera-Tracking-Prototype/files/13620157/CameraTrackingPrototypeFinal.zip)
 ### Presentation
 [Presentation PDF File](https://github.com/mconnelly17/Camera-Tracking-Prototype/files/13620201/Camera.Tracking.Prototype.Presentation.pdf)
+Includes:
+- Image of running front panel
+- CAD images of prototype
+- Image of final prototype
+- Image of wire management
 ### State Machine
 ![ME 6705 Capture 3](https://github.com/mconnelly17/Camera-Tracking-Prototype/assets/126015712/993f4a65-daa7-473e-a866-ca4c0f7e8805)
 ### Images
