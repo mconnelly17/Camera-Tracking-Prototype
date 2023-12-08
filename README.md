@@ -29,4 +29,8 @@ Cameras are an important part of the sporting industry as they are the intermedi
 - [Light Conditions & Constant Object Video](https://youtu.be/gAOmJhzI1h8)
 - [Moving Object Video](https://youtu.be/H2pl6y8ZW2Q)
 - [Front Panel Video](https://youtu.be/bCesvpSmST0)
+# Challenges
+Our largest challenge was setting up the camera. For example, we had to do numerous software installs: NI Vision, NI-IMAQdx, NI-IMAQdx USB Webcam Support, and NI-IMAQdx USB3 Vision Support. We also had to do numerous package installs: Vision Common Resources, Vision Acquisition Software, Vision Development Module, Vision Development Module Runtime, Vision Builder for Automated Inspection, and NI-IMAQdx. We did not need all the previously listed software and packages, but these are some of the potential ones that could be needed depending on your machine vision project. On top of this, testing different color settings, such as RGB and grayscale, and testing different resolutions were needed to receive our wanted camera FPS. It was also challenging to select the correct machine vision technique, leading to us trying three different approaches: object tracking, color segmentation, and pattern matching. We ended up settling on pattern matching as it gave us the best results. Lastly, due to a lack of motor selection, we were forced to work with stepper motors which also led to some minor challenges.
+
+
 
