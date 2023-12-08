@@ -25,5 +25,9 @@ Cameras are an important part of the sporting industry as they are the intermedi
 - Threshold #8: Achieved. Always keeps object on screen (see demonstration).​
 - Objective #9: Achieved. Can track moving object (see demonstration).
 # Video Demonstration
-https://github.com/mconnelly17/Camera-Tracking-Prototype/assets/126015712/fd6e0fd5-01c1-4ccf-addf-ee87654000fa
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/MUQfKFzIOeU" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
