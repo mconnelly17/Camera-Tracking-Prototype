@@ -25,9 +25,7 @@ Cameras are an important part of the sporting industry as they are the intermedi
 - Threshold #8: Achieved. Always keeps object on screen (see demonstration).​
 - Objective #9: Achieved. Can track moving object (see demonstration).
 # Video Demonstration
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/MUQfKFzIOeU" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+Manual Control: https://youtube.com/shorts/X6N_BbKG_28?feature=share
+Light Conditions & Constant Object: https://youtu.be/gAOmJhzI1h8
+
 
