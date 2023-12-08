@@ -4,7 +4,7 @@ Cameras are an important part of the sporting industry as they are the intermedi
 ![ME 6705 Capture 1](https://github.com/mconnelly17/Camera-Tracking-Prototype/assets/126015712/8040d75a-fddc-42b4-bf78-8d7306a888e9)
 # Project Requirements Discussion
 ![ME 6705 Capture 2](https://github.com/mconnelly17/Camera-Tracking-Prototype/assets/126015712/fb6cbf46-00fb-43f4-84ed-295d098d23b5)
-## Why did we choose these?
+### Why did we choose these?
 - Threshold #1: Wanted user to see video output to simulate what the true application where this would be used was like. Allowed the user to watch the tracking mechanism in real-time and helped with debugging.
 - Objective #2: Wanted to reach a threshold of what we considered "watchable". Did not want any lag.
 - Objective #3: Wanted to always know the position and speed of motors to understand the bigger picture of the motion taken from start to finish and helped with debugging.
@@ -14,7 +14,7 @@ Cameras are an important part of the sporting industry as they are the intermedi
 - Threshold #7: Wanted to provide the user with a good watching experience. No one would want to watch a sporting event with oscillating or jerking motions.
 - Threshold #8: Wanted to full-range of motion tracking, so that the automated tracking did not lose the object.
 - Objective #9: Wanted to track moving objects to simulate the true application (running players and moving balls).
-## Did we achieve these?
+### Did we achieve these?
 - Threshold #1: Achieved. Uses a connected computer to interface with prototype​.
 - Objective #2: Achieved. Using greyscale and lowest resolution possible, the camera was able to be viewed between 30 and 40 FPS pre-tracking and between 18 and 24 FPS during tracking​.
 - Objective #3: Achieved. Both motor speeds (presented as step counts in x and y) and motor position (presented as change in angle from start reference) shown on front panel​.
