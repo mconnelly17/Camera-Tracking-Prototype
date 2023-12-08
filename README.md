@@ -9,10 +9,19 @@ Cameras are an important part of the sporting industry as they are the intermedi
 - Objective #2: Wanted to reach a threshold of what we considered "watchable". Did not want any lag.
 - Objective #3: Wanted to always know the position and speed of motors to understand the bigger picture of the motion taken from start to finish and helped with debugging.
 - Objective #4: Wanted to give the user extra capability to track whatever they wanted. In its true application, it should be able to track anything requested.
-- Threshold #5: Removed (see rationale)
+- Threshold #5: Removed (see rationale).
 - Objective #6: Wanted quick tracking response time, so that the tracking mechanism was not delayed and did not constantly fall behind the play.
 - Threshold #7: Wanted to provide the user with a good watching experience. No one would want to watch a sporting event with oscillating or jerking motions.
 - Threshold #8: Wanted to full-range of motion tracking, so that the automated tracking did not lose the object.
 - Objective #9: Wanted to track moving objects to simulate the true application (running players and moving balls).
 ## Did we achieve these?
+- Threshold #1: Achieved. Uses a connected computer to interface with prototype​.
+- Objective #2: Achieved. Using greyscale and lowest resolution possible, the camera was able to be viewed between 30 and 40 FPS pre-tracking and between 18 and 24 FPS during tracking​.
+- Objective #3: Achieved. Both motor speeds (presented as step counts in x and y) and motor position (presented as change in angle from start reference) shown on front panel​.
+- Objective #4: Achieved. No limit to what can be tracked​.
+- Threshold #5: Removed (see rationale)​.
+- Objective #6: Achieved. Quick response time (see demonstration).​
+- Threshold #7: Achieved. Smooth tracking (see demonstration).​
+- Threshold #8: Achieved. Always keeps object on screen (see demonstration).​
+- Objective #9: Achieved. Can track moving object (see demonstration).
 
