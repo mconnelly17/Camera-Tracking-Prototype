@@ -35,7 +35,7 @@ Our largest challenge was setting up the camera. For example, we had to do numer
 Through this project, we learned many lessons. In particular, we learned about different machine vision techniques (object tracking, color segmentation, and pattern matching), about the importance of color settings and resolution and how it relates to camera FPS, and about the importance of wire management and project professionalism. In terms of potential next steps, we believe that it would be smart to try and get different machine vision techniques implemented. Our pattern matching set-up worked much better than our object tracking set-up, so we ultimately decided to go with pattern matching for the project submission. We think it would be smart to continue working on our object tracking set-up if we were allotted more time
 # Other Project Files
 ### Code
-[CameraTrackingPrototypeFinal.zip](https://github.com/mconnelly17/Camera-Tracking-Prototype/files/13620157/CameraTrackingPrototypeFinal.zip)
+[CameraTrackingPrototypeCode.zip](https://github.com/mconnelly17/Camera-Tracking-Prototype/files/13620157/CameraTrackingPrototypeFinal.zip)
 
 
 
